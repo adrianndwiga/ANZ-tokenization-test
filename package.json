@@ -1,0 +1,27 @@
+{
+  "name": "anz-test",
+  "version": "1.0.0",
+  "description": "As part of your technical interview, we would like you to complete a coding exercise.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "mocha ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianndwiga/ANZ-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianndwiga/ANZ-test/issues"
+  },
+  "homepage": "https://github.com/adrianndwiga/ANZ-test#readme",
+  "devDependencies": {
+    "mocha": "^9.1.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "lokijs": "^1.5.12"
+  }
+}
